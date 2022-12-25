@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Calculator {
-    //На самом деле это калькулятор,но хотела сначала делать факториал)поэтому и называется факториал)))
+ 
     public static double add(double a, double b){ return a + b;}
     public static double min(double a , double b){return a-b;}
     public static double multip(double a , double b){return a*b;}
